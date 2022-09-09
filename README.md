@@ -13,6 +13,10 @@
 <a href="https://github.com/trhacknon/Prot1ntelligence/blob/master/LICENSE"/> <img alt="Licence" src="https://img.shields.io/badge/LICENCE-MIT-brightgreen">
 </p>
 <br>
+<p align="center">
+<a href="https://github.com/trhacknon/Prot1ntelligence/blob/master/READMEen.md"/> <img alt="ENGLISH" src="https://img.shields.io/badge/ENGLISH-MIT-brightblue">
+</p>
+<br> 
     
 # PROT1NTELLIGENCE 🕵🏻‍♂️
 **Prot1ntelligence** est un script en Python 🐍 pour la **Communauté OSINT & CYBER**.<br>
