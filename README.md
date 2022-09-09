@@ -6,12 +6,12 @@
   
 <p align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
-<a href="https://github.com/C3n7ral051nt4g3ncy"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/trhacknon"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <a href="https://ko-fi.com/tacticalintelanalyst"> <img alt="Kofi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
 <a href="https://user-images.githubusercontent.com/104733166/171052611-1f76b07c-832f-4a4a-9a0a-2f94595c28c9.png"/><img alt="BTC" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
 
 <p align="center">
-<a href="https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence/blob/master/LICENSE"/> <img alt="Licence" src="https://img.shields.io/badge/LICENCE-MIT-brightgreen">
+<a href="https://github.com/trhacknon/Prot1ntelligence/blob/master/LICENSE"/> <img alt="Licence" src="https://img.shields.io/badge/LICENCE-MIT-brightgreen">
 
   
 </p>
@@ -49,7 +49,7 @@ When viewing on Youtube, make sure you view **from a PC**, and put YouTube video
 # Installation ⚙️
 
 ```
-git clone https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence
+git clone https://github.com/trhacknon/Prot1ntelligence
 ```
 
 ```
