@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # File name          : prot1ntelligence.py
-# Author             : GitHub: @C3n7ral051nt4g3ncy
+# Author             : GitHub: @touchmycrazyredhat
 # Creation Date      : 09 June 2022 (Script started on 01/05/2022)
 # Fork               : 3 modules out of 7 Modules are based on ProtOSINT from PixelBubble: https://github.com/pixelbubble/ProtOSINT
 # Last Update        : Saturday 11th of June 2022, Adding Fork and another Module for Direct PGP Key download locally
@@ -72,7 +72,7 @@ def printprot1ntelligencebanner():
 ⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿                                          
                 C3n7ral051nt4g3ncy                                                                  
 
-GitHub:  https://github.com/C3n7ral051nt4g3ncy                                                          
+GitHub:  https://github.com/trhacknon                                                         
 Twitter: @OSINT_Tactical                                                                             
 Tool Contributions (₿TC): \u001b[31mbc1q66awg48m2hvdsrf62pvev78z3vkamav7chusde\u001b[32m                                                               
 ___________________________________________________________________ \033[0m\n""")
