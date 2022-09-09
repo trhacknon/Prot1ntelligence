@@ -14,7 +14,7 @@
 </p>
 <br>
 <p align="center">
-<a href="https://github.com/trhacknon/Prot1ntelligence/blob/master/READMEen.md"/> <img alt="ENGLISH" src="https://img.shields.io/badge/ENGLISH-MIT-brightblue">
+<a href="https://github.com/trhacknon/Prot1ntelligence/blob/master/READMEen.md"/> <img alt="ENGLISH" src="https://img.shields.io/badge/README-IN-ENGLISH-brightblue">
 </p>
 <br> 
     
